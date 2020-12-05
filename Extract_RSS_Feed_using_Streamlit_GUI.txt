@@ -1,0 +1,5 @@
+https://news.google.com/rss?hl=en-IN&amp;ned=us&amp;gl=IN&gl=IN&ceid=IN:en
+https://www.cnbc.com/id/10000113/device/rss/rss.html
+https://www.indiainfoline.com/rss/news.xml
+https://www.investing.com/rss/news.rss
+http://www.moneycontrol.com/rss/MCtopnews.xml
